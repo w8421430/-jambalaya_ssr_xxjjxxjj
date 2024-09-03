@@ -1,4 +1,4 @@
-#!name=Skip Proxy And Real-IP Lists
+#!name=GY Skip Proxy And Real-IP Lists
 #!desc=跳过部分应用的代理检测
 
 [General]
