@@ -1366,7 +1366,7 @@ http:\/\/ad\.myfriday\.cn\/d\/json\/1\.1 reject
 ^https?:\/\/adproxy.autohome.com.cn\/AdvertiseService\/ reject-200
 ^https?:\/\/adpai\.thepaper\.cn\/.+&ad= reject-200
 ^https?:\/\/adpai\.thepaper\.cn\/.+&ad= reject
-^https?:\/\/adm\.10jqka\.com\.cn\/interface\/ad\/recommend reject-200
+#^https?:\/\/adm\.10jqka\.com\.cn\/interface\/ad\/recommend reject-200
 ^https?:\/\/adapi\.izuiyou\.com\/ad\/fetch_api_ads\? reject-dict
 ^https?:\/\/adapi\.izuiyou\.com\/ reject-200
 ^https?:\/\/adapi\.izuiyou\.com\/ reject
