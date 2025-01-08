@@ -203,7 +203,7 @@ http:\/\/ad\.myfriday\.cn\/d\/json\/1\.1 reject
 ^https?:\/\/ucmp\.sf-express\.com\/proxy\/esgcempcore\/memberActLengthy\/fullGiveActivityService\/fullGiveInfo reject-dict
 ^https?:\/\/ucmp-static\.sf-express\.com\/proxy\/wxbase\/wxTicket\/wxLiveStreamInfo\?pageNo reject-dict
 ^https?:\/\/track\.mm\.taou\.com/v\d\/track reject-200
-^https?:\/\/tower\.ubixioe\.com\/mob\/mediation reject
+#^https?:\/\/tower\.ubixioe\.com\/mob\/mediation reject
 ^https?:\/\/top-widgets-api\.xiaozujian\.com\/api\/ad\/config reject
 ^https?:\/\/toblog\.ctobsnssdk\.com reject-200
 ^https?:\/\/tk\.lanjiyin\.com\.cn\/ad\/getAdList reject-200
