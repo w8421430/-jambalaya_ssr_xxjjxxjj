@@ -910,7 +910,7 @@ http:\/\/ad\.myfriday\.cn\/d\/json\/1\.1 reject
 ^https?:\/\/cq11344-app-https-api-1\.ictun\.com:443\/api\/app\/v\d\/appad reject-200
 ^https?:\/\/cover\.baidu\.com\/cover\/page\/dspSwitchAds\/ reject
 ^https?:\/\/consumer\.fcbox\.com\/v\d\/ad\/ reject
-^https?:\/\/conf-darwin\.xycdn\.com reject-dict
+#^https?:\/\/conf-darwin\.xycdn\.com reject-dict
 ^https?:\/\/compus\.xiaofubao\.com\/compus\/advertising\/getStartupAdvertising reject-dict
 ^https?:\/\/compus\.xiaofubao\.com\/compus\/advertising reject-200
 ^https?:\/\/comicapi\.manhuashe\.com\/v\d\/(ads\/adstrategys|public\/startupactivity) reject-200
